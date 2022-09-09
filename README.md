@@ -1,2 +1,2 @@
 # entrega05-ejs
-Entraga Nro. 05 - Motores de Plantilla EJS
+Entrega Nro. 05 - Motores de Plantilla EJS
